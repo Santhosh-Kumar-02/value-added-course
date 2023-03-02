@@ -11,7 +11,7 @@
 1. `Project 1` - EDA on Salary dataset
 2. `Project 2` - EDA on Titanic dataset
 3. `Assignment 1` - EDA on Indian Bikes dataset 
-    * Dataset Link: [Kaggle](https://www.kaggle.com/datasets/rajeshrampure/motorbikes-in-indian-market-2022)
+    * Dataset Link: [Kaggle]([https://www.kaggle.com/datasets/rajeshrampure/motorbikes-in-indian-market-2022](https://www.kaggle.com/datasets/fernandol/countries-of-the-world))
     * Dataset pre-processed using `Python`
     
 ## How to use in R Studio
